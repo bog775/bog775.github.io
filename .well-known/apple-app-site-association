@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "4BWS6BS8A4.com.bog775.RaybanRealtimeAgent",
+        "paths": ["/wearables", "/wearables/*"]
+      }
+    ]
+  }
+}
